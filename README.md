@@ -27,7 +27,7 @@ Clonar o repositório [Repositório da Tarefa](https://github.com/e104SysDev/tcc
 
 Voce deverá criar uma branch com o identificador de sua Tarefa no Jira, por exemplo TDS-100; a branch deverá ter o nome da tarefa para que o Jira possa identificar as alterações e o andamento das atividades relacionadas.
 
-Para criar a branch voce deve utilizar o comando abaiso, onde `X` é o número de sua tarefa.
+Para criar a branch voce deve utilizar o comando abaixo, onde `X` é o número de sua tarefa.
 
 ```shell
 git checkout -b TDS-X
