@@ -46,7 +46,7 @@ Agora voce tem uma versão só sua da tarefa original e pode fazer todas as incl
 
 Para consluir a entrega você deverá criar uma versão consolidada, ou seja criar um commit com todas as alterações realizadas e enviar estas alterações para o GitHub.
 
-Siga os passos a seguir para enviar sua tarefa, lembre-se que o `X` e `Y` é o número do seu Time é o número da sua tarefa:
+Siga os passos a seguir para enviar sua tarefa, lembre-se que o `X` é o número do seu Time e o `Y` é o número da sua tarefa:
 
 1. Enviar os produtos gerados.
 
