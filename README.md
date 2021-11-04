@@ -17,7 +17,7 @@ Para podermos trabalhar de forma mais efetiva, precisamos nos certificar que alg
 
 #### Criar conta no GitHub
 
-Criar conta no GitHub com email institucional através do convite recebido;
+Criar conta no GitHub com email institucional e informar o `username` e email utilizado como comentário na Tarefa.;
 
 #### Obter o código base para iniciar a Tarefa
 
