@@ -25,4 +25,40 @@ Clonar o repositório [Repositório da Tarefa](https://github.com/e104SysDev/tcc
 
 #### Criar uma Branch (Ramificação) para a tarefa do Time
 
-Voce deverá criar uma branch com o identificador de sua Tarefa no Jira, por exemplo TDS-100; a branch deverá ter o nome da tarefa
+Voce deverá criar uma branch com o identificador de sua Tarefa no Jira, por exemplo TDS-100; a branch deverá ter o nome da tarefa para que o Jira possa identificar as alterações e o andamento das atividades relacionadas.
+
+Para criar a branch voce deve utilizar o comando abaiso, onde `X` é o número de sua tarefa.
+
+```shell
+git checkout -b TDS-X
+```
+
+Agora voce tem uma versão só sua da tarefa original e pode fazer todas as inclusões e modificações necessárias sem modificar o conteúdo original.
+
+#### Criar o documento formatado para o pré-projeto
+
+1. No diretório de sua branch, crie e salve o documento pelo `Microsoft Word`
+2. Insira as formatações conforme as normas `ABNT` e o modelo anexo na tarefa;
+3. Voce pode compartilhar o arquivo pelo OneDrive, Google Drive, etc; mas lembre-se de ao fazer a entrega utilizar o Git.
+
+
+#### Concluindo a entrega
+
+Para consluir a entrega você deverá criar uma versão consolidada, ou seja criar um commit com todas as alterações realizadas e enviar estas alterações para o GitHub.
+
+Siga os passos a seguir para enviar sua tarefa, lembre-se que o `X` e `Y` é o número do seu Time é o número da sua tarefa:
+
+```shell
+git add .
+git commit -am "TDS-X - Entrega Time Y"
+git push -u origin TDX-X
+```
+
+#### Parabéns, tarefa concluida
+
+### Pull Request
+
+A última etapa do processo é a junção de todas as tarefas na branch principal; mas esta etapa realizaremos presencialmente na próxima aula!
+
+
+
