@@ -48,11 +48,15 @@ Para consluir a entrega você deverá criar uma versão consolidada, ou seja cri
 
 Siga os passos a seguir para enviar sua tarefa, lembre-se que o `X` e `Y` é o número do seu Time é o número da sua tarefa:
 
+1. Enviar os produtos gerados.
+
 ```shell
 git add .
 git commit -am "TDS-X - Entrega Time Y"
 git push -u origin TDX-X
 ```
+
+2. Alterar o status da Tarefa de `Pendente` para `Validação`
 
 #### Parabéns, tarefa concluida
 
